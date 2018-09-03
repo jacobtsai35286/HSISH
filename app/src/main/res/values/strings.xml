@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">HSISH</string>
+
+    <string name="dummy_button">Login</string>
+    <string name="dummy_content">DisConnect</string>
+</resources>
